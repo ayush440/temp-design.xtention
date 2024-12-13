@@ -19,10 +19,10 @@
 import { ref, onMounted, computed, onUnmounted } from 'vue';
 
 const images = ref([
-  { src: '/src/assets/images/marquee/image 15.png', alt: 'BSNLC Logo' },
-  { src: '/src/assets/images/marquee/image 14.png', alt: 'Mati Trading Logo' },
-  { src: '/src/assets/images/marquee/image 7.png', alt: 'Way2a Logo' },
-  { src: '/src/assets/images/marquee/Logo_1 1.png', alt: 'Janta Logo' },
+  { src: '/public/marquee/image14.png', alt: 'BSNLC Logo' },
+  { src: '/public/marquee/image15.png', alt: 'Mati Trading Logo' },
+  { src: '/public/marquee/image7.png', alt: 'Way2a Logo' },
+  { src: '/public/marquee/Logo_11.png', alt: 'Janta Logo' },
 ]);
 
 const scrollContainer = ref(null);
