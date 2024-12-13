@@ -104,7 +104,7 @@ const cards = ref([
   {
     title: 'Lightning speed delivery',
     description: 'Make your request, and you\'ll have it done in around two working days.',
-    imageUrl: '/public/24h.png',
+    imageUrl: '/24h.png',
   },
   {
     title: 'Top-notch work at a fraction of the cost',
